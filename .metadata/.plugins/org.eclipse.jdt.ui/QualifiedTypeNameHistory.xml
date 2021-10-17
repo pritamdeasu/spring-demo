@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+    <fullyQualifiedTypeName name="java.lang.System.Logger.Level"/>
+    <fullyQualifiedTypeName name="java.util.logging.Level"/>
+    <fullyQualifiedTypeName name="java.util.logging.Logger"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.AnnotationConfigApplicationContext"/>
+    <fullyQualifiedTypeName name="java.util.logging.ConsoleHandler"/>
+    <fullyQualifiedTypeName name="java.util.logging.SimpleFormatter"/>
+    <fullyQualifiedTypeName name="com.luv2code.springdemo.Coach"/>
+    <fullyQualifiedTypeName name="java.util.Base64"/>
+    <fullyQualifiedTypeName name="com.luv2code.springdemo.BaseballCoach"/>
+    <fullyQualifiedTypeName name="com.luv2code.springdemo.FortuneService"/>
+</qualifiedTypeNameHistroy>
