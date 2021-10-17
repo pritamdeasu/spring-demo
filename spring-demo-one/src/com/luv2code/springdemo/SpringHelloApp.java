@@ -9,10 +9,11 @@ public class SpringHelloApp {
 		ClassPathXmlApplicationContext context = 
 				new ClassPathXmlApplicationContext("applicationContext.xml");
 		
-		Coach coach = context.getBean("mycoach",Coach.class);
-		System.out.println(coach.getDailyWorkout());
+		CricketCoach coach = context.getBean("myCricketCoach",CricketCoach.class);
+		//System.out.println(coach.getDailyWorkout());
 		System.out.println(coach.getDailyFortune());
-		
+		System.out.println(coach.getEmailString());
+		System.out.println(coach.getTeamString());
 		context.close();
 
 	}
